@@ -1,2 +1,2 @@
-CREATE TABLE Innovate(InnovateID INT, InnovateName varchar(20),InnovateDesc varchar(50))
-:
+CREATE TABLE Innovate(InnovateID INT, InnovateName varchar(20),InnovateDesc varchar(50),InnovateDetailDesc varchar(50))
+
