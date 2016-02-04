@@ -1,0 +1,1 @@
+CREATE TABLE Innovate(InnovateID INT, InnovateName varchar(20))
