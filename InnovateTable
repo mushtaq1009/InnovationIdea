@@ -1,1 +1,2 @@
-CREATE TABLE Innovate(InnovateID INT, InnovateName varchar(20))
+CREATE TABLE Innovate(InnovateID INT, InnovateName varchar(20), InnovateDate(date), InnovateIdea varchar(20))
+CREATE TABLE InnovateDetail(ID INT2, InnovateID INT, ConcernAbout Varchar(255), Description VARCHAR(255))
